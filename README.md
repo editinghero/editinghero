@@ -1,2 +1,3 @@
-Bit.ly/editingheroyt
-Bit.ly/editinghero
+https://Bit.ly/editingheroyt
+
+https://Bit.ly/editinghero
