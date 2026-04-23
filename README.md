@@ -1,5 +1,12 @@
 # AstralQuarks
 
+### New Maintainer
+All projects and repos are now maintained here:
+[GitHub](https://github.com/astralquarks)
+
+
+
+
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&duration=3000&pause=1000&color=E8E8E8&background=00000000&center=true&vCenter=true&width=800&height=100&lines=Developer+%26+Designer;Astronomy+Enthusiast;Building+Quiet%2C+Useful+Things)
